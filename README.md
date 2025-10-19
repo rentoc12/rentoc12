@@ -2,11 +2,7 @@
 
 **` Desenvolvedor Full Stack Java em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia `**
 
-#### Profissional com perfil Proativo, com facilidade de aprendizado e comprometido.   
-#### Desenvolvimento de projetos, como landings pages responsiva, site de um restaurante e uma calculadora,   
-utilizando Jquery, Bootstrap, Sass, Gulp, Less, Grunt, Typescript, Vuejs, React HTML, CSS e JavaScript, 
-desenvolvendo projetos integrados de front-end. Comprometido com boas práticas de programação e qualidade 
-de código. 
+#### Olá me chamo Renato, tenho 27 anos e sou natural de São Paulo, atualmente estou finalizando minha formação em desenvolvedor fullstack java, ao longo da jornada desenvolvi projetos, como landings pages responsiva, site de um restaurante e uma calculadora, utilizando Jquery, Bootstrap, Sass, Gulp, Less, Grunt, Typescript, Vuejs, React HTML, CSS e JavaScript, 
 
 ---
 
